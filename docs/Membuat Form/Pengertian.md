@@ -1,0 +1,4 @@
+Tag form adalah salah satu tag HTML yang digunakan untuk membuat formulir atau area input data di dalam halaman web. Formulir ini memungkinkan pengguna untuk mengirimkan data ke server untuk diproses. Dengan menggunakan tag form, kita dapat mengumpulkan informasi dari pengguna seperti teks, angka, pilihan, dan lainnya. Berikut adalah contoh code untuk membuat form sederhana:
+
+
+**![](https://lh7-us.googleusercontent.com/docsz/AD_4nXckM5QPXfPFgNEjHVZO4Md5qX7ACEnKR5Ujx4K0vivDihN62xJ2g4twXq7oBfQczzoOSIr7HkhRW-yMsT4r2VFNlojlgLS_AJL9KNnQtC6_bY1b2CN8RG0IrCJrEAAKhpkApAwPZABQKVpUp0ayxciA4hg8deP_8PdKPZA_F-AKGWxaMDUIIn4?key=ESYW2iUyREQEYzkaKMR1vg)**
