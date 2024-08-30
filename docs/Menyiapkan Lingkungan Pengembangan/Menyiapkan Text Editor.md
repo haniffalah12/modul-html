@@ -8,4 +8,6 @@ Menginstal Text Editor
 Ada banyak sekali text editor yang bisa anda gunakan untuk memulai belajar pemrograman, salah satunya yang popular adalah Visual Studio Code. 
 
 
-**![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcrk_TCdCUh0ZOvJ9QMOeKs-h1uLg8HJCl5xb5nTr27Pws3H-m0UFO3px0oEmwdsc0qWFFJDEQVzH0yAexES9H88-aGHcok8-CxBEL7Dl7KnzHo0kOrf6uWOdkBGqgttZBtVM9wloIKrCReZcfylI14PtiaJyEfHJB6Fft5B6DR37Ld53SFvPU?key=ESYW2iUyREQEYzkaKMR1vg)**
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezTM_NG9FpXgT27CFYK2g5Id5nxy-Xy_KcCFr93xhe2zqzT0irSt2Of3F5Rn3skcaP-C2R8LgI8B8eGY2Pe4X3nw0qKlrG2bp8w9CADSqx_cKMWY7b6fyucvrPEGdb6nT2ZT1_U6Jl7Pk7SomTnel0W_T-n_q6QPKW2l8fBJaXW-SI5uOn5Q?key=ESYW2iUyREQEYzkaKMR1vg)
+
+Instal [Visual Studio Code](https://visualstudio.microsoft.com/)  ada disini 
